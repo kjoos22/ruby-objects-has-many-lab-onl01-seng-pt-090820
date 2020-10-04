@@ -20,7 +20,7 @@ class Post
       return nil
     else
     @author.name
-  end
+    end
   end
   
 end
